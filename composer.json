@@ -1,5 +1,5 @@
 {
-    "name": "jobcastrop/hello-world",
+    "name": "jobcastrop/helloworld",
     "description": "Echo Hello World, just to see how to create a composer package.",
     "type": "library",
     "authors": [
